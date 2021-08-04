@@ -950,7 +950,7 @@ POST NAV STYLING
 FOOTER STYLING
 ***************/
 .footer {
-  text-align: center;
+  text-align: left;
   padding: 2rem 0; }
   .footer .container {
     border-top: 4px solid #d9d9d9;
