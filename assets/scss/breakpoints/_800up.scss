@@ -79,6 +79,10 @@ HEADER STYLING
 		float: left;
 		clear: left;
 
+		p {
+			text-shadow: 0 0 1px black, 0 0 1px black; 
+		}
+
 		ul {
 			margin: 0;
 			li {

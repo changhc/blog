@@ -812,6 +812,8 @@ HEADER STYLING
   .header .container {
     padding: 0;
     max-width: 100%; }
+  .header p {
+    text-shadow: 0 0 1px black, 0 0 1px black; }
   .header h1 {
     margin: 0;
     float: left;
@@ -1071,6 +1073,8 @@ HEADER STYLING
     .header nav {
       float: left;
       clear: left; }
+      .header nav p {
+        text-shadow: 0 0 1px black, 0 0 1px black; }
       .header nav ul {
         margin: 0; }
         .header nav ul li {
