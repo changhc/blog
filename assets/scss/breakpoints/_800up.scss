@@ -69,6 +69,10 @@ HEADER STYLING
 		text-shadow: 0 0 1px black; 
 	}
 
+	p {
+		display: inherit;
+	}
+
 	h1 {
 		font-size: 3em;
 		line-height: 1;
