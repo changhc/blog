@@ -66,6 +66,7 @@ HEADER STYLING
 		transform: translateY(-50%);
     max-width: 800px;
 		overflow: hidden;
+		text-shadow: 0 0 1px black; 
 	}
 
 	h1 {
@@ -78,10 +79,6 @@ HEADER STYLING
 	nav {
 		float: left;
 		clear: left;
-
-		p {
-			text-shadow: 0 0 1px black, 0 0 1px black; 
-		}
 
 		ul {
 			margin: 0;

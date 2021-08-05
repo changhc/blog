@@ -1064,6 +1064,7 @@ HEADER STYLING
       top: 50%;
       -webkit-transform: translateY(-50%);
       transform: translateY(-50%);
+      text-shadow: 0 0 1px black;
       max-width: 800px; }
     .header h1 {
       font-size: 3em;
@@ -1073,8 +1074,6 @@ HEADER STYLING
     .header nav {
       float: left;
       clear: left; }
-      .header nav p {
-        text-shadow: 0 0 1px black, 0 0 1px black; }
       .header nav ul {
         margin: 0; }
         .header nav ul li {

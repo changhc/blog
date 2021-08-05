@@ -187,6 +187,11 @@ HEADER STYLING
 	.container {
 		padding: 0;
     max-width: 100%;
+		text-shadow: 0 0 1px black;
+	}
+
+	p {
+		display: none;
 	}
 
 	h1 {
