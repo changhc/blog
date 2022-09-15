@@ -18,7 +18,7 @@ They offered a lunch menu (26.50 EUR) that included an entrée, a main dish, and
 
 #### Entrée: Salade Lyonnaise
 
-A warm veggie salad with pork belly cubes, fried bread cubes, and a poached egg. The dressing was light, containing a sour taste probably stemming from vinegar. The pork belly smelled nice, was a bit salty but just nice with the salad.
+A warm veggie salad with pork belly cubes, fried bread cubes, and a poached egg. The dressing was light, containing a sour taste probably stemming from vinegar. The pork belly smelled brilliant, was a bit salty but just nice with the salad.
 
 <figure>
 	<img src="{{ "/assets/img/lyon-restaurant/salade_lyonnaise.jpg" | prepend: site.url }}" width="600px" alt=""> 
@@ -27,7 +27,7 @@ A warm veggie salad with pork belly cubes, fried bread cubes, and a poached egg.
 
 #### Main: Quenelle Lyonnaise au Brochet, sauce Homardine, Riz Pilaf
 
-[Quenelle](https://en.wikipedia.org/wiki/Quenelle) is a dish with fish (but there was no taste of fish) with fluffy texture. It is always served with sauce, while restaurants might decide to serve with different kinds of sauce. The whole iron plate was baked and served directly, so the waitress couldn't have tried harder telling me not to touch the iron plate. Most of the taste of this dish came from the sauce (the quenelle "cake" itself only had a slight flavour). One can also have this dish with bread (served for free). The bread in this bouchon was nice (at least for me).
+[Quenelle](https://en.wikipedia.org/wiki/Quenelle) is a dish with fish (but there was no taste of fish) with fluffy texture. It is always served with sauce, while restaurants might decide to serve with different kinds of sauce. The whole iron plate was baked and served directly, so the waitress couldn't have tried harder telling me not to touch the iron plate. Most of the taste of this dish came from the sauce (the quenelle "cake" itself only had a slight flavour). One can also have this dish with bread (served for free). The bread in this bouchon was nice (at least to me.)
 
 <figure>
 	<img src="{{ "/assets/img/lyon-restaurant/Quenelle.jpg" | prepend: site.url }}" width="600px" alt=""> 
@@ -43,7 +43,7 @@ This dish was accompanied by a small dish of yellow rice: Riz Pilaf. I'm not sur
 
 #### Dessert: Cervelle de canut
 
-[Cervelle de canut](https://en.wikipedia.org/wiki/Cervelle_de_canut) is made from cheese. The texture was just as its name, soft and smooth. It was seasoned with mainly olive oil, vinegar, and a lot of green onion. I wouldn't say it was tasty, at least not for me, but it was indeed a brand new experience. A bit too strong for me after the main dish.
+[Cervelle de canut](https://en.wikipedia.org/wiki/Cervelle_de_canut) is made from cheese. The texture was just as its name, soft and smooth. It was seasoned with mainly olive oil, vinegar, and a lot of green onion. I wouldn't say it was tasty, but it was indeed a brand new experience. A bit too strong for me after the main dish.
 
 <figure>
 	<img src="{{ "/assets/img/lyon-restaurant/cervelle_de_canut.jpg" | prepend: site.url }}" width="600px" alt=""> 
@@ -71,7 +71,7 @@ The bread was just okay.
 
 #### Main: Quenelle de brochet en gratin (20.00 EUR)
 
-Yes, I ordered quenelle again to see how different it was from the previous one, but I was a bit disappointed. The quenelle itself was okay. The sauce was different, with the taste of cream and mushrooms. Riz Pilaf was served too, but the taste was rather boring (mostly onion and broth) and the texture was not uniform in the serving. Some part was overcooked (too soft) and some part was just a bit undercooked (slightly soft outside but hard inside). As shown in the photo, it came in a "huge" portion, which could have been the reason.
+Yes, I ordered quenelle again to see how different it was from the previous one, but I was a bit disappointed. The quenelle itself was okay. The sauce was different, with the taste of cream and mushrooms. Riz Pilaf was served too, but the taste was rather boring (mostly onion and broth) and the texture was not uniform in the serving. Some part was overcooked (too soft) and some part was just a bit undercooked (slightly soft outside but hard inside like risotto). As shown in the photo, it came in a "huge" portion, which could have been the reason.
 
 <figure>
 	<img src="{{ "/assets/img/lyon-restaurant/quenelle_abel.jpg" | prepend: site.url }}" width="600px" alt=""> 
@@ -86,7 +86,7 @@ This is the only one among those I visited that is at the old town (a.k.a. more 
 
 #### Entrée: Soupe à l'oignon
 
-I didn't know what an authentic onion soup tasted like, but for this I found it a bit plain, just savouriness mainly. Grated cheese was also just ordinary.
+I didn't know what an authentic onion soup tasted like, but for this I found it a bit monotonous, just savouriness mainly. Grated cheese was also just ordinary.
 
 <figure>
 	<img src="{{ "/assets/img/lyon-restaurant/soupe_a_loignon.jpg" | prepend: site.url }}" width="600px" alt=""> 
